@@ -1,0 +1,32 @@
+{
+  "clientes": [
+    {
+      "apellido": "Riquelme",
+      "nombre": "Roman",
+      "dni": "50",
+      "fechaInicio": "2023-09-28",
+      "id": 6
+    },
+    {
+      "apellido": "Pepe",
+      "nombre": "Lapua",
+      "dni": "60",
+      "fechaInicio": "2023-09-29",
+      "id": 7
+    },
+    {
+      "apellido": "Cavani",
+      "nombre": "Edinson",
+      "dni": "60",
+      "fechaInicio": "2023-09-28",
+      "id": 9
+    },
+    {
+      "apellido": "Chiquito",
+      "nombre": "Romero",
+      "dni": "50",
+      "fechaInicio": "2023-09-28",
+      "id": 10
+    }
+  ]
+}
